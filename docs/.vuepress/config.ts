@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/',
+  base: '/python-blog/',
   lang: 'zh-CN',
   title: 'My Python Blog',
   description: 'Python 博客',
